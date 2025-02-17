@@ -17,5 +17,5 @@
 **3.QR Code Generator And Scanner**
 **Screenshot**
 
-<img width="350" src="https://github.com/user-attachments/assets/090287db-6b18-400c-99c3-be84fbc3966d"/>
+<img width="369" alt="image" src="https://github.com/user-attachments/assets/ce64085e-493b-4f61-bec7-72500bd07f43" />
 
