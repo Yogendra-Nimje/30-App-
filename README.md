@@ -14,5 +14,8 @@
 
 <img width="161" src="https://github.com/user-attachments/assets/28783990-16e6-4d51-a1b3-13c4d1667a6c"/>
 
-<img width="161" src="![Screenshot 2025-02-17 173310](https://github.com/user-attachments/assets/090287db-6b18-400c-99c3-be84fbc3966d)"/>
+**3.QR Code Generator And Scanner**
+**Screenshot**
+
+<img width="350" src="https://github.com/user-attachments/assets/090287db-6b18-400c-99c3-be84fbc3966d"/>
 
